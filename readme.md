@@ -1,5 +1,5 @@
 ### QA Analyst | Test Automation Engineer 
-Atualmente focado em elevar a qualidade de software através da automação e testes estratégicos.
+Atuo garantindo a qualidade de softwares com testes manuais e automatizados. Acredito que software de qualidade é construído com atenção aos detalhes, prevenir bugs é tão importante quanto detectá-los.
 
 ---
 
