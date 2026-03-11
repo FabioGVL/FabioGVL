@@ -27,6 +27,6 @@ Atualmente focado em elevar a qualidade de software através da automação e te
 
 ### Contate-me!
 
-**E-mail:** [fabiogvl@hotmail.com](mailto:fabiogvl@hotmail.com) | **Portfolio:** [fabiogvl.github.io](https://fabiogvl.github.io/) | **Linkedin:** [FabioGVL](www.linkedin.com/in/fabiogvl)
+**E-mail:** [fabiogvl@hotmail.com](mailto:fabiogvl@hotmail.com) | **Portfolio:** [fabiogvl.github.io](https://fabiogvl.github.io/) | **Linkedin:** [FabioGVL](https://www.linkedin.com/in/fabiogvl/)
 
  
