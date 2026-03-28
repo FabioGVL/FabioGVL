@@ -15,10 +15,10 @@ Atuo garantindo a qualidade de softwares com testes manuais e automatizados. Acr
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fabiogvl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="FabioGVL GitHub stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiogvl&theme=dark" alt="FabioGVL Streak Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogvl&layout=compact&theme=dark" alt="Top Langs" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabiogvl&layout=compact&theme=dark" alt="Top Langs" />
     </td>
   </tr>
 </table>
