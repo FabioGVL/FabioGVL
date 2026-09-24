@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <strong>Mais importante do que encontrar bugs é evitar que eles aconteçam.</strong>
+  <em>Mais importante do que encontrar bugs é evitar que eles aconteçam.</em>
 </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/fabiogvl/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=7CF03D" alt="LinkedIn"></a>&nbsp;<a href="https://fabiogvl.github.io/"><img src="https://img.shields.io/badge/VER_PORTFÓLIO_COMPLETO-7CF03D?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Ver portfólio completo"></a>&nbsp;<a href="mailto:fabiogvl@hotmail.com"><img src="https://img.shields.io/badge/E--MAIL-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=7CF03D" alt="E-mail"></a></p>
