@@ -1,32 +1,44 @@
-### QA Analyst | Test Automation Engineer 
-Atuo garantindo a qualidade de softwares com testes manuais e automatizados. Acredito que software de qualidade é construído com atenção aos detalhes, prevenir bugs é tão importante quanto detectá-los.
+# Fábio Gabriel
+
+### QA Analyst | Test Automation | API Testing | CI/CD
+
+QA Analyst com foco em testes manuais, automação E2E e APIs. Atuo com Cypress, Playwright e Selenium em projetos com JavaScript, Python e Java, além de testes funcionais e de contrato, CI/CD com GitHub Actions, Docker e documentação de falhas.
+
+Meu foco é validar fluxos críticos, antecipar riscos e construir suítes de testes reproduzíveis e sustentáveis.
+
+[Portfólio](https://fabiogvl.github.io/) · [LinkedIn](https://www.linkedin.com/in/fabiogvl/) · [E-mail](mailto:fabiogvl@hotmail.com)
 
 ---
 
-###  Minhas Especialidades:
+## Stack e atuação
 
-* **Linguagens:** Java, JavaScript
-* **Web Automation:** Selenium WebDriver, Cypress
-* **API Testing:** Rest-Assured, Cypress API, Postman
-* **Methodologies:** BDD (Cucumber/Gherkin), Clean Code, Page Objects
-
----
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiogvl&theme=dark" alt="FabioGVL Streak Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabiogvl&layout=compact&theme=dark" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Automação Web** | Cypress, Playwright, Selenium |
+| **API Testing** | Playwright, Rest-Assured, Cypress, Postman |
+| **Linguagens** | JavaScript, Python, Java |
+| **Test Frameworks** | Pytest, JUnit 5, Cucumber |
+| **CI/CD e Infraestrutura** | GitHub Actions, Docker |
+| **Qualidade** | E2E, API, contrato, regressão, funcional, integração |
+| **Gestão e colaboração** | Git/GitHub, Jira, Scrum, Kanban |
 
 ---
 
-### Contate-me!
+## Projetos em destaque
 
-**E-mail:** [fabiogvl@hotmail.com](mailto:fabiogvl@hotmail.com) | **Portfolio:** [fabiogvl.github.io](https://fabiogvl.github.io/) | **Linkedin:** [FabioGVL](https://www.linkedin.com/in/fabiogvl/)
+| Projeto | Destaques |
+| --- | --- |
+| [**Automation Exercise - Playwright**](https://github.com/FabioGVL/AutomationExercise-Playwright) | 130 cenários E2E, 9 falhas documentadas, POM/Actions, Chromium/Firefox e CI/CD |
+| [**ServeRest - Playwright Python**](https://github.com/FabioGVL/ServeRest-Playwright-Python) | 62 testes, sendo 40 funcionais e 22 de contrato, com Pytest e JSON Schema |
+| [**Contato Seguro - Cypress**](https://github.com/FabioGVL/ContatoSeguro-Cypress) | 57 testes, sendo 30 UI e 27 API, com Docker, Mochawesome e GitHub Actions |
+| [**Sicredi API**](https://github.com/FabioGVL/SicrediAPI-Selenium) | Java, Selenium, Rest-Assured, JUnit 5 e validação de divergências entre API e documentação |
+| [**SwagLabs - Cypress**](https://github.com/FabioGVL/SwagLabs-Cypress) | Automação E2E com múltiplos perfis, regras de negócio, cálculos de checkout e Faker BR |
+| [**StarWars API - Cypress**](https://github.com/FabioGVL/StarWarsAPI-Cypress) | Testes de API e contrato, paginação, entradas inválidas e 5 divergências documentadas |
 
- 
+---
+
+## Contato
+
+- **Portfólio:** https://fabiogvl.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/fabiogvl/
+- **E-mail:** fabiogvl@hotmail.com
